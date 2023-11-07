@@ -1,0 +1,17 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #726363;
+    margin: 0;
+    padding: 0;
+}
+
+.games {
+    background-color: #b47a7a;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 300px;
+}
